@@ -41,3 +41,7 @@
 
 20. Maintenance and Support: Provide ongoing maintenance and support for the app, including bug fixes, feature enhancements, and security updates.
 
+
+## Here are the list of instructions, that will hopefully help you you complete your tasks. Good luck team!
+
+
